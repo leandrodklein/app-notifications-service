@@ -1,3 +1,5 @@
+NODE.JS / TYPESCRIPT / NESTJS / PRISMA / JEST / REDIS
+
 *** Instalar o NestJS de forma global
 - npm i -g @nestjs/cli
 
